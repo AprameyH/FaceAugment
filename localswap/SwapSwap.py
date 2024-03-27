@@ -59,6 +59,6 @@ def swapswap(main_img, face_image, show_steps=False):
 # plt.show()
 
 res2 = swapswap('../images/bp-out.jpeg', '../images/pitt.png', True)
-plt.set_title("Swapped image")
+plt.title("Swapped image")
 plt.imshow(res2[:,:,::-1])
 plt.show()
