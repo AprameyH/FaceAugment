@@ -13,7 +13,7 @@ app.prepare(ctx_id=0, det_size=(640,640))
 swapper = insightface.model_zoo.get_model('../models/inswapper_128.onnx', download=False, download_zip=False)
 
 # main_img: File Path to AI generated background image (with one person)
-# face_image: File path to mugshot/celebrity face
+# face_image: File path to original/celebrity face
 def swapswap(main_img, face_image, show_steps=False):
     img2 = cv2.imread(main_img)
     
@@ -25,7 +25,7 @@ def swapswap(main_img, face_image, show_steps=False):
     img_face = cv2.imread(face_image)
     if show_steps:
         plt.imshow(img_face[:,:,::-1])
-        plt.title('Mugshot image')
+        plt.title('Original image')
         plt.show()
 
     face_out = app.get(img2)[0]
