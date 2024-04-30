@@ -6,3 +6,12 @@
 "Asian woman figure skating, light skin, early 20s, oval face, medium brown almond eyes, small straight nose, black straight hair, slim build, focused expression, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v 6, serious setting.", 
 "Asian woman, early 20s, light skin, oval face, focused expression, black straight hair covering ears, brown almond-shaped eyes, small straight nose, average lips, slim build, figure skater performing, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v 6."
 ]
+
+["Asian woman, late teens to early 20s, warm rosy skin, oval face, medium brown almond eyes, straight small nose, thin lips, prominent cupid's bow, slim build, black straight hair, looking left, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v 6.", 
+"Asian woman in her early twenties, warm rosy skin, oval face, medium forehead, slightly arched average eyebrows, brown almond-shaped eyes, straight small nose with narrow nostrils, high cheeks, thin lips with a prominent cupid's bow, round chin, slim build, black straight hair, taken with EOS R 300mm f2.8, real photo", 
+"Asian woman, late teens, warm rosy skin, oval face, brown almond eyes, small straight nose, high cheeks, thin lips, round chin, black straight hair, slim build, happy setting, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v 6.", 
+"Asian woman, late teens to early 20s, warm rosy skin, oval face, medium forehead, slightly arched eyebrows, brown almond eyes, straight small nose, high cheeks, thin lips with prominent cupid's bow, round chin, black straight hair, slim build, taken with EOS R 300mm f2.8, real photo, 4k resolution", 
+"Asian woman, late teens to early 20s, warm rosy skin, oval face, medium forehead, slightly arched eyebrows, brown almond eyes, straight small nose, high cheeks, thin lips with prominent cupid's bow, round chin, black straight short hair, slim build, taken with EOS R 300mm f2.8, real photo, 4k resolution", 
+"Asian woman in a serious setting, warm rosy skin, late teens to early 20s, oval face, brown almond eyes, black straight hair, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v 6, small straight nose, high cheeks, prominent cupid's bow, slim build.", 
+"Asian woman, late teens to early 20s, warm rosy skin, oval face, brown almond eyes, straight small nose, high cheeks, thin lips, rounded chin, black straight hair covering ears, slim build, taken with EOS R 300mm f2.8, real photo, 4k resolution, ar 9:16, v6, realistic portrait" 
+]
