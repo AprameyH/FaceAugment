@@ -27,5 +27,5 @@ def rename_images_in_folder(folder_path, prefix):
     print("All images have been renamed.")
 
 # Example usage
-folder_path = 'Ayumi_Hamasaki'  # Update with the correct path to your folder
-rename_images_in_folder(folder_path, "ah")
+folder_path = 'Yui_Aragaki'  # Update with the correct path to your folder
+rename_images_in_folder(folder_path, "ya")
