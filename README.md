@@ -21,7 +21,7 @@ Facial Data Augmentation
 ### Running finetune_person_test.ipynb
 - If you wish to recreate our results, then you can use the generated and base images folder that have included in our repo along with the test folder and run the script to get our results. Feel free to experiment.
 - We are using the facenet-pytorch library, run pip install facenet-pytorch to install it.
-- In order to get the fscore working, we have to alter the training file in facenet. We have included our altered facenet_training file in examples\new-facenet-training-script
+- In order to get the fscore working, we have to alter the training file in facenet. We have included our altered facenet_training file in evaluation_methods\new-facenet-training-script
 - Replace the contents of the following file in the installed facenet package
     facenet_pytorch\models\utils\training.py 
     with the contents of this file
